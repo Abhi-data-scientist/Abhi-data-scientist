@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Bairwa</h1>
-<h3 align="center">🚀 Aspiring Data Scientist | Python Developer | AI Enthusiast</h3>
+<h3 align="center">🚀 Aspiring Data Scientist | Ai-ML | AI Enthusiast</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Aspiring+Data+Scientist+📊;Python+Developer+🐍;Machine+Learning+Explorer+🤖;Deep+Learning+Enthusiast+🧠;Generative+AI+Learner+✨">
